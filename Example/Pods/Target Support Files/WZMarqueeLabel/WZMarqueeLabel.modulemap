@@ -1,0 +1,6 @@
+framework module WZMarqueeLabel {
+  umbrella header "WZMarqueeLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

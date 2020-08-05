@@ -1,0 +1,16 @@
+PODS:
+  - WZMarqueeLabel (0.1.0)
+
+DEPENDENCIES:
+  - WZMarqueeLabel (from `../`)
+
+EXTERNAL SOURCES:
+  WZMarqueeLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZMarqueeLabel: 3242bed47d7149ed16c0fcc358c7a91d757da43d
+
+PODFILE CHECKSUM: 0b2dae756e3db8ddfc911d49d26032c49e0291a7
+
+COCOAPODS: 1.9.1

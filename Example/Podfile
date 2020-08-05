@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WZMarqueeLabel_Example' do
+  pod 'WZMarqueeLabel', :path => '../'
+
+  target 'WZMarqueeLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

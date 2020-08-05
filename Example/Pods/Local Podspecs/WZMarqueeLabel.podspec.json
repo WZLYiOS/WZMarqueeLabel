@@ -1,0 +1,24 @@
+{
+  "name": "WZMarqueeLabel",
+  "version": "0.1.0",
+  "summary": "A short description of WZMarqueeLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LiuSky/WZMarqueeLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiuSky": "327847390@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LiuSky/WZMarqueeLabel.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WZMarqueeLabel/Classes/**/*",
+  "swift_version": "5.0"
+}
