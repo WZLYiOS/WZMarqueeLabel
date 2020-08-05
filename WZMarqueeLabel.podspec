@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WZMarqueeLabel'
   s.version          = '2.0.1'
-  s.summary          = 'A short description of WZMarqueeLabel.'
+  s.summary          = 'A short description of WZMarqueeLabel'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
